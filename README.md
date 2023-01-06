@@ -1,8 +1,8 @@
-# Q1. Summary
+# Summary and Overview
 
 <p>
 
-For my CSCI 444 term project I chose to perform transfer learning on 3 different models, InceptionV3, 
+For this project I chose to perform transfer learning on 3 different models, InceptionV3, 
 ResNet50V2, and MobileNetV2. The goal of this project is to add identical layers to pretrained models, and
 evaluate their performance on a new dataset. I used a 
 [colab notebook](https://colab.research.google.com/github/theimgclist/examples/blob/MultiClassTF2.0/community/en/multi_class_classification/food_classifier.ipynb) as a springboard for my 
@@ -35,7 +35,7 @@ this new dataset as it is the deepest of the three architectures, thus being mor
 classification after being pretrained on the "imagenet" dataset.
 </p>
 
-# Q2. Description
+# Dataset Description and Outline
 
 <p>
 
@@ -83,7 +83,7 @@ whitespace would grow larger but otherwise I don't believe the colourmap would h
 changes when increasing the number of classes evaluated.  
 </p>
 
-# Q3. Detail
+# Details
 
 <p>
 
